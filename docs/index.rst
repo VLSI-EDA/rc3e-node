@@ -9,8 +9,8 @@ Germany |br|
 
 --------------------------------------------------------------------------------
 
-The RC3C-Client Documentation
-#############################
+The RC3C-Node Documentation
+###########################
 
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
